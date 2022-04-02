@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "600317017593",
+    "firebase_url": "https://uygulamalar-f5b22-default-rtdb.firebaseio.com",
+    "project_id": "uygulamalar-f5b22",
+    "storage_bucket": "uygulamalar-f5b22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600317017593:android:03b05daa971abd8dfad128",
+        "android_client_info": {
+          "package_name": "com.example.untitled9"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600317017593-604tc2b044ekddv084pjkfolmfkd0v4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq47nBjom1ISrkhgMHiW1egdglGfCqrsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600317017593-604tc2b044ekddv084pjkfolmfkd0v4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
